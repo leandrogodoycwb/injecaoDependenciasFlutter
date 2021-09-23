@@ -1,0 +1,61 @@
+{
+    "id": 142,
+    "createdAt": "26-08-2020 17:38:56",
+    "lastStatusActiveAt": "18-02-2021 14:12:48",
+    "firstName": "Dsa",
+    "lastName": "213",
+    "iuguId": "F39C2322C845410B9515058151F91186",
+    "ddiMobilePhone": "+55",
+    "mobilePhone": "41818181181",
+    "gender": "male",
+    "ocupation": {
+        "id": 213,
+        "description": "Á procura"
+    },
+    "username": "aa@a.com",
+    "active": true,
+    "blocked": false,
+    "blackList": false,
+    "birthday": "09-11-1994",
+    "avatar": "https://media-development.dandelin.io/avatar/e32ee70a-018c-4f28-936b-6b4ce6f478cb/image_picker921250506993015909.jpg",
+    "status": "ATIVO",
+    "activeUntil": [
+        2021,
+        3,
+        19,
+        16,
+        17,
+        1
+    ],
+    "type": "USER",
+    "role": {
+        "id": 11,
+        "name": "members"
+    },
+    "address": [
+        {
+            "id": 747,
+            "address": "Rua Carlos João Goudard",
+            "addressNumber": "22",
+            "neighborhood": "Fazendinha",
+            "zipCode": "81330540",
+            "city": "Curitiba",
+            "state": "PR",
+            "country": "Brasil",
+            "type": {
+                "id": 1,
+                "description": "residencial"
+            }
+        }
+    ],
+    "parent": {
+        "id": 91,
+        "name": "Dsadas Dsadas",
+        "document": "40640205020",
+        "status": "PRE_ATIVO"
+    },
+    "approval": true,
+    "otherUf": false,
+    "zoomId": "VnLQXnkXQFSTMXj4N200BQ",
+    "twoFactorAuthentication": false
+}
